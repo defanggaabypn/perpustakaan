@@ -468,6 +468,9 @@
             "require": {
                 "php": ">=5.4.0"
             },
+            "require": {
+                  "laravel/framework": "6.20.14"
+                },
             "require-dev": {
                 "jakub-onderka/php-code-style": "1.0",
                 "jakub-onderka/php-parallel-lint": "1.0",
